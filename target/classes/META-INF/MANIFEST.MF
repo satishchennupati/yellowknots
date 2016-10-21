@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: egan::code::challange::level::2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: satishc
+Implementation-Vendor-Id: com.egen
+Build-Jdk: 1.8.0_91
+Implementation-URL: http://projects.spring.io/spring-boot/egan-code-ch
+ allange-level-2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
