@@ -33,4 +33,10 @@ public class UserRepo {
 		logger.info("createOrUpdateUser method invoked");
 		return new User();
 	}
+	
+	public List<User> findFirst10Users(){
+		logger.info("findAllUsers method invoked");
+		return new ArrayList<User>();
+	}
+	
 }
